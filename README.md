@@ -4,6 +4,10 @@ A modern digital-products storefront with a complete shopping experience and an 
 
 **Live demo:** https://digital-products-e-commerce-applica-omega.vercel.app
 
+## Preview
+
+![DigiStore storefront — homepage](docs/screenshots/digistore-home.jpg)
+
 ---
 
 ## Overview
